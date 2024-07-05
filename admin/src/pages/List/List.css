@@ -8,6 +8,11 @@
     font-size: 13px;
 }
 
+.para{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
 .list-table-format.title{
     background-color: #f9f9f9;
 }

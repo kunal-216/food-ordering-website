@@ -49,7 +49,7 @@ const List = ({url}) => {
           <b>Action</b>
         </div>
         {list.length === 0 ? (
-          <p>No items found.</p>
+          <p className='para'>No items found.</p>
         ) : (
           list.map((item) => (
             <div className='list-table-format' key={item._id}>
