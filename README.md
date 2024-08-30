@@ -12,65 +12,69 @@
   - Secure user authentication with email and password.
   - User account creation and management.
 
+- **Image**: ![SignUp Component](frontend/src/assets/Signup.jpeg)
+![Login Component](frontend/src/assets/Login.jpeg)
+
 - **Browse Food Items**
   - View a categorized list of food items.
   - Search and filter options to easily find desired items.
+- **Image**: ![Browse Menu Component](frontend/src/assets/CategoriseMenu.jpeg)
 
 - **Order Management**
   - Add items to the cart and place orders.
   - Track order status and view order history.
+- **Image**: ![My Order Page](frontend/src/assets/MyOrdersPage.jpeg)
 
 - **Payment Integration**
   - Secure payment processing via Stripe.
   - Multiple payment options supported.
+  - **Image**: ![Payment Page](frontend/src/assets/PaymentPage.jpeg)
 
-- **Profile Management**
-  - Users can view and update their profile details.
-  - Manage saved addresses and payment methods.
 
 ### Admin Panel Features
 
-- **Admin Authentication**
-  - Secure login for admin access.
+- **Add Food Items**
+  - Add food items in the menu.
+  - Upload images and set prices for each item.
+![Admin Page](frontend/src/assets/AdminAddFoodPage.jpeg)
 
 - **Manage Food Items**
-  - Add, update, or remove food items from the menu.
+  - Update, or remove food items from the menu.
   - Upload images and set prices for each item.
+![Admin Page](frontend/src/assets/AdminFoodListPage.jpeg)
 
 - **Order Management**
   - View and manage all user orders.
   - Update order statuses and process refunds.
+![Admin Page](frontend/src/assets/AdminOrderPage.jpeg)
 
-- **User Management**
-  - Access and manage user profiles.
-  - View order history and user activity.
 
 ## Pages
 
 ### Home Page
 
 - **Description**: The landing page of the website where users can browse featured food items and access the main navigation menu.
-- **Image**: ![Home Page](frontend/assets/HomePage.jpeg)
+- **Image**: ![Home Page](frontend/src/assets/HomePage.jpeg)
 
 ### Menu Page
 
 - **Description**: A detailed page listing all available food items with options to filter and search.
-- **Image**: ![Menu Page](frontend/assets/MenuPage.jpeg)
+- **Image**: ![Menu Page](frontend/src/assets/MenuPage.jpeg)
 
 ### Cart Page
 
 - **Description**: A page where users can review their cart, make adjustments, and proceed to checkout.
-- **Image**: ![Cart Page](frontend/assets/CartPage.jpeg)
+- **Image**: ![Cart Page](frontend/src/assets/CartPage.jpeg)
 
 ### Checkout Page
 
 - **Description**: The page where users enter payment details and finalize their orders.
-- **Image**: ![Checkout Page](frontend/assets/CheckoutPage.jpeg)
+- **Image**: ![Checkout Page](frontend/src/assets/OrderPage.jpeg)
 
 ### Admin Page
 
 - **Description**: The main interface for admins to manage food items, orders, and user profiles.
-- **Image**: ![Admin Page](frontend/assets/AdminPage.jpeg)
+- **Image**: ![Admin Page](frontend/src/assets/AdminAddFoodPage.jpeg)
 
 ## Tech Stack
 
