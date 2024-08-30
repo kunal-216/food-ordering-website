@@ -133,10 +133,6 @@ Follow these steps to set up the project locally:
    - Ensure MongoDB is installed and running.
    - Configure the MongoDB connection in the backend configuration files.
 
-## Admin Panel Access
-
-- Access the admin panel by navigating to `/admin` after logging in as an admin.
-
 ## Usage
 
 - **For Users**: Navigate to the home page, browse food items, place orders, and manage your profile.
